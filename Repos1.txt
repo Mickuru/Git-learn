@@ -15,12 +15,12 @@ start
 
 forward
 forward2
-<<<<<<< Rebase
+Rebase
 forward3
 forward4
-=======
+
 
 
 
 forward5
->>>>>>> main
+forward6
