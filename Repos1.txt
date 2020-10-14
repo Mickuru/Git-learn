@@ -10,3 +10,4 @@ New branch 3
 This one
 
 commit in github
+Hachu conflict
