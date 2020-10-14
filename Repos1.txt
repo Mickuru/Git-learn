@@ -15,5 +15,12 @@ start
 
 forward
 forward2
+<<<<<<< Rebase
 forward3
 forward4
+=======
+
+
+
+forward5
+>>>>>>> main
